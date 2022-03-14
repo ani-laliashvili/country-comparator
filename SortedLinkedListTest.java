@@ -2,7 +2,7 @@
  * This class tests SortedLinkedList class and prints
  * whether specific tests have passed.
  *
- * @author Ani Laliashvili @author Wonjun Kim
+ * @author Ani Laliashvili
  */
 
 public class SortedLinkedListTest {
