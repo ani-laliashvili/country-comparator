@@ -13,7 +13,7 @@ import java.util.Iterator;
  *
  * @author Anna Rafferty; modified by Yucong Jiang
  *
- * @author Ani Laliashvili @author Wonjun Kim
+ * @author Ani Laliashvili
  *
  */
 public class SortedLinkedList implements SortedList<Country> {
