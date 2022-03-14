@@ -8,7 +8,7 @@ import java.util.Scanner;
  * This class displays countries sorted by specific 
  * feature.
  *
- * @author Ani Laliashvili @author Wonjun Kim
+ * @author Ani Laliashvili
  */
 public class CountryDisplayer {
     
