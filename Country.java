@@ -1,6 +1,5 @@
 /**
  * @author: Yucong Jiang
- * PLEASE DO NOT MODIFIY THIS FILE. YOU DON'T NEED TO SUBMIT THIS FILE.
  */
 
 
